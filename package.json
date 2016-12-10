@@ -31,7 +31,7 @@
   "main": "./app.js",
   "engines": {
     "node": ">= 0.10.0"
-  }
+  },
   "scripts": {
     "start": "node app"
   }
